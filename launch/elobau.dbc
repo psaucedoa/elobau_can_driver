@@ -1,0 +1,7 @@
+VERSION ""
+
+BS_:
+
+BO_ 2566892064 EncoderPosition: 8 Vector__XXX
+ SG_ EncoderPositionPositive : 16|16@0+ (0.1,0) [0|0] "" Vector__XXX
+ SG_ EncoderPositionNegative : 0|16@0+ (0.01,0) [0|0] "" Vector__XXX
